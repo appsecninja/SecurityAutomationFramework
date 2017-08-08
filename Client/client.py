@@ -1,5 +1,4 @@
 import signal
-import requests
 import time
 from util import show
 

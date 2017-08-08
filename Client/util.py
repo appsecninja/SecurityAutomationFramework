@@ -1,6 +1,4 @@
-import signal
 import requests
-import time
 
 class show:
  def heartBeat(self):
